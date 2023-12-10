@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="casosDePrueba.CasosDePRueba" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-10T10:12:21" hostname="NBEXAFX1F" time="202.236">
+  <properties/>
+  <testcase name="CP003_pensionados()" classname="casosDePrueba.CasosDePRueba" time="48.073"/>
+  <testcase name="CP005_mostrar_Exafiliados()" classname="casosDePrueba.CasosDePRueba" time="34.485"/>
+  <testcase name="CP002_gestionar_beneficios()" classname="casosDePrueba.CasosDePRueba" time="46.657"/>
+  <testcase name="CP004_empresas()" classname="casosDePrueba.CasosDePRueba" time="35.442"/>
+  <testcase name="CP001_mostrar_SomosAndes()" classname="casosDePrueba.CasosDePRueba" time="37.573"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 21640
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1702203146.503][WARNING]: This version of ChromeDriver has not been tested with Chrome version 120.
+dic 10, 2023 7:12:28 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 7580
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1702203192.241][WARNING]: This version of ChromeDriver has not been tested with Chrome version 120.
+dic 10, 2023 7:13:13 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 16855
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1702203226.665][WARNING]: This version of ChromeDriver has not been tested with Chrome version 120.
+dic 10, 2023 7:13:47 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 7222
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1702203273.945][WARNING]: This version of ChromeDriver has not been tested with Chrome version 120.
+dic 10, 2023 7:14:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 26018
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1702203308.722][WARNING]: This version of ChromeDriver has not been tested with Chrome version 120.
+dic 10, 2023 7:15:09 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
